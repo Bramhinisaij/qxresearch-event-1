@@ -94,7 +94,7 @@ Refer to this [setup video](https://youtu.be/beEBeQw5tpc) to install the depende
   - Replace API keys in `yml` files 
 
 \* The setup for different projects might not be the same. Please refer to the individual setup guides given for each project.
-
+fixed bug in a program
 <br>
 
 ### Contributing
